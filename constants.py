@@ -1,7 +1,7 @@
 class Constants:
-    SCREEN_WIDTH = 1000
-    SCREEN_HEIGHT = 700
-    SCREEN_TITLE = "Аэрохоккей"
+    screen_width = 1000
+    screen_height = 700
+    screen_title = "Аэрохоккей"
 
     BACKGROUND_COLOR = (20, 20, 30)
     FIELD_COLOR = (25, 25, 40)

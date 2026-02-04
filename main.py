@@ -5,7 +5,7 @@ from constants import Constants
 
 class AirHockeyWindow(arcade.Window):
     def init(self):
-        super().__init__(Constants.SCREEN_WIDTH, Constants.SCREEN_HEIGHT, Constants.SCREEN_TITLE)
+        super().__init__(Constants.screen_width, Constants.screen_height, Constants.screen_title)
         self.show_view(MenuView())
 
 
